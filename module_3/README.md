@@ -1,7 +1,7 @@
 # Итоговая работа Мархай Ольги по Проекту 3. О вкусной и здоровой пище.  
 
 ## Оглавление  
-[1. Описание модуля]#Описание-модуля
+[1. Описание модуля](#Описание-модуля)
 [2. Какой кейс решаем?](https://github.com/OlgaMarkhai/Skillfactoryhub/edit/main/module_3/README.md#Какой-кейс-решаем?)  
 [3. Краткая информация о данных](https://github.com/OlgaMarkhai/Skillfactoryhub/edit/main/module_3/README.md#Краткая-информация-о-данных)  
 [4. Полное описание задания с kaggle](https://github.com/OlgaMarkhai/Skillfactoryhub/edit/main/module_3/README.md#Полное-описание-задания-с-kaggle)  
